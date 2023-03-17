@@ -20,5 +20,5 @@ data class TeamEntity(
     @OneToMany
     var participants: MutableList<ParticipantEntity>? = null,
     @ManyToOne
-    var hackatonEntity: HackatonEntity? = null
+    var hackathonEntity: HackathonEntity? = null
 )
