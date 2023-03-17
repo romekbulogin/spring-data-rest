@@ -1,2 +1,2 @@
 # spring-data-rest
-API for Hackaton Spring 2023
+API for Hackathon Spring 2023
